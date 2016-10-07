@@ -5,10 +5,6 @@ try:
 except ImportError:
   raise Exception("You need to copy sample.py to config.py in Local Media Plugin")
 
-#_FEEDLIST = [
-#  {'title':'My Movies','folder':'/home/pi/Videos'},
-#]
-
 def name():
   return 'Local Media'
 
