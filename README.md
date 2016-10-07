@@ -4,7 +4,12 @@ Plugin for BlissFlixx media player to allow playing of local files.
 
 # Installation
 
-To install first go to your BlissFlixx directory then:
+To install first go to your BlissFlixx directory and make sure you are running the latest version with local media playback support by running:
+
+```
+git pull
+```
+Now install the actual plugin:
 
 ```
 cd plugins
